@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221247
+test_cases:
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.275
+  response: 7E8056212473EAC
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.3125
+  response: 7E8056212473EB2
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.425
+  response: 7E8056212473EC4
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.4375
+  response: 7E8056212473EC6
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.475
+  response: 7E8056212473ECC
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.48125
+  response: 7E8056212473ECD
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.4875
+  response: 7E8056212473ECE
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.49375
+  response: 7E8056212473ECF
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.5
+  response: 7E8056212473ED0
+- expected_values:
+    JK_THROTTLE_INLET_P: 100.5125
+  response: 7E8056212473ED2

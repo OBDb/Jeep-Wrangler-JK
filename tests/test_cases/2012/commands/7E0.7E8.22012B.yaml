@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    JK_CAT_MODEL_T: 550
+  response: 7E80562012B0226
+- expected_values:
+    JK_CAT_MODEL_T: 593
+  response: 7E80562012B0251
+- expected_values:
+    JK_CAT_MODEL_T: 602
+  response: 7E80562012B025A
+- expected_values:
+    JK_CAT_MODEL_T: 605
+  response: 7E80562012B025D
+- expected_values:
+    JK_CAT_MODEL_T: 608
+  response: 7E80562012B0260
+- expected_values:
+    JK_CAT_MODEL_T: 622
+  response: 7E80562012B026E
+- expected_values:
+    JK_CAT_MODEL_T: 629
+  response: 7E80562012B0275
+- expected_values:
+    JK_CAT_MODEL_T: 652
+  response: 7E80562012B028C
+- expected_values:
+    JK_CAT_MODEL_T: 674
+  response: 7E80562012B02A2

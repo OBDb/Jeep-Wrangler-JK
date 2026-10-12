@@ -1,0 +1,5 @@
+command_id: 7E0.0115
+test_cases:
+- expected_values:
+    O2S12: 0.135
+  response: '7E8 04 41 15 1B FF '

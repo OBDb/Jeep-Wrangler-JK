@@ -1,0 +1,41 @@
+command_id: 763.4E3.22032D|fc=1
+test_cases:
+- expected_values:
+    JK_HIGHBEAMS_MODE: 'OFF'
+    JK_HIGHBEAMS_ON: 0
+    JK_REAR_WIPER: 'OFF'
+  response: |-
+    4E3100862032D000000
+    4E3210010032D000000
+- expected_values:
+    JK_HIGHBEAMS_MODE: 'OFF'
+    JK_HIGHBEAMS_ON: 0
+    JK_REAR_WIPER: 'OFF'
+  response: |-
+    4E3100862032D000000
+    4E3210110032D000000
+- expected_values:
+    JK_HIGHBEAMS_MODE: 'OFF'
+    JK_HIGHBEAMS_ON: 0
+    JK_REAR_WIPER: 'OFF'
+  response: |-
+    4E3100862032D008000
+    4E3210010032D008000
+- expected_values:
+    JK_HIGHBEAMS_ON: 0
+  response: |-
+    4E3100862032D080500
+    4E3210010032D080500
+- expected_values:
+    JK_HIGHBEAMS_ON: 0
+    JK_REAR_WIPER: 'OFF'
+  response: |-
+    4E3100862032D082000
+    4E3210010032D082000
+- expected_values:
+    JK_HIGHBEAMS_MODE: 'OFF'
+    JK_HIGHBEAMS_ON: 0
+    JK_REAR_WIPER: 'OFF'
+  response: |-
+    4E3100862032D800000
+    4E3210010032D800000

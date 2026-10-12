@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221247
+test_cases:
+- expected_values:
+    JK_THROTTLE_INLET_P: 95.90625
+  response: 7E8056212473BF1
+- expected_values:
+    JK_THROTTLE_INLET_P: 97.56875
+  response: 7E8056212473CFB
+- expected_values:
+    JK_THROTTLE_INLET_P: 97.60625
+  response: 7E8056212473D01

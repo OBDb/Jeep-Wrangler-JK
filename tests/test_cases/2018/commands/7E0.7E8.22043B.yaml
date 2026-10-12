@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22043B
+test_cases:
+- expected_values:
+    JK_ODO: 21880.832
+  response: 7E80562043B0A6F
+- expected_values:
+    JK_ODO: 207609.856
+  response: 7E80562043B62FF
+- expected_values:
+    JK_ODO: 207618.048
+  response: 7E80562043B6300
+- expected_values:
+    JK_ODO: 216006.656
+  response: 7E80562043B6700

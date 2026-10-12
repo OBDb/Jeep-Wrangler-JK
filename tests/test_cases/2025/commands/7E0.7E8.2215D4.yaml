@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2215D4
+test_cases:
+- expected_values:
+    JK_LOW_T_CHG_AIR_CLT: 1272
+  response: 7E8056215D404F8
+- expected_values:
+    JK_LOW_T_CHG_AIR_CLT: 6096
+  response: 7E8056215D417D0

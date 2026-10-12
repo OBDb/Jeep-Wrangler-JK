@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220109
+test_cases:
+- expected_values:
+    JK_BAROMETRIC_P: 100
+  response: 7E80562010901F4
+- expected_values:
+    JK_BAROMETRIC_P: 100.2
+  response: 7E80562010901F5

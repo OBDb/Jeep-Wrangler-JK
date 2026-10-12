@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2202B2
+test_cases:
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 6.3125
+  response: 7E8056202B20194
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 7.48438
+  response: 7E8056202B201DF
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 7.79688
+  response: 7E8056202B201F3
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 7.85938
+  response: 7E8056202B201F7
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 8.29688
+  response: 7E8056202B20213
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 8.54688
+  response: 7E8056202B20223
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 9.07812
+  response: 7E8056202B20245
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 10.51562
+  response: 7E8056202B202A1
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 10.64062
+  response: 7E8056202B202A9
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 11.125
+  response: 7E8056202B202C8

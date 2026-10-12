@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22022A
+test_cases:
+- expected_values:
+    JK_EOP: 32.48
+  response: 7E80462022A38
+- expected_values:
+    JK_EOP: 35.96
+  response: 7E80462022A3E
+- expected_values:
+    JK_EOP: 37.12
+  response: 7E80462022A40
+- expected_values:
+    JK_EOP: 40.02
+  response: 7E80462022A45
+- expected_values:
+    JK_EOP: 41.76
+  response: 7E80462022A48
+- expected_values:
+    JK_EOP: 63.22
+  response: 7E80462022A6D
+- expected_values:
+    JK_EOP: 77.14
+  response: 7E80462022A85

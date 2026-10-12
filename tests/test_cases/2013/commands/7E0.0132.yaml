@@ -1,0 +1,29 @@
+command_id: 7E0.0132
+test_cases:
+- expected_values:
+    EVAP_VP: 0.064
+  response: '7E80441320100'
+- expected_values:
+    EVAP_VP: -1.031
+  response: 7E8044132EFE4
+- expected_values:
+    EVAP_VP: -0.995
+  response: 7E8044132F074
+- expected_values:
+    EVAP_VP: -0.967
+  response: 7E8044132F0E4
+- expected_values:
+    EVAP_VP: -0.922
+  response: 7E8044132F198
+- expected_values:
+    EVAP_VP: -0.73
+  response: 7E8044132F498
+- expected_values:
+    EVAP_VP: -0.52
+  response: 7E8044132F7E0
+- expected_values:
+    EVAP_VP: -0.182
+  response: 7E8044132FD28
+- expected_values:
+    EVAP_VP: -0.136
+  response: 7E8044132FDE0

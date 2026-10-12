@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2201FF
+test_cases:
+- expected_values:
+    JK_IAT_01FF: 27
+  response: 7E8056201FF005B
+- expected_values:
+    JK_IAT_01FF: 28
+  response: 7E8056201FF005C
+- expected_values:
+    JK_IAT_01FF: 29
+  response: 7E8056201FF005D
+- expected_values:
+    JK_IAT_01FF: 31
+  response: 7E8056201FF005F
+- expected_values:
+    JK_IAT_01FF: 32
+  response: 7E8056201FF0060
+- expected_values:
+    JK_IAT_01FF: 33
+  response: 7E8056201FF0061
+- expected_values:
+    JK_IAT_01FF: 36
+  response: 7E8056201FF0064

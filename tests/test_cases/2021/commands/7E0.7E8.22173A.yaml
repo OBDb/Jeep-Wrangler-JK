@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22173A
+test_cases:
+- expected_values:
+    JK_RR_WHL_SPD: 0
+  response: 7E80562173A0000
+- expected_values:
+    JK_RR_WHL_SPD: 1.125
+  response: 7E80562173A0048
+- expected_values:
+    JK_RR_WHL_SPD: 17.15625
+  response: 7E80562173A044A
+- expected_values:
+    JK_RR_WHL_SPD: 25.65625
+  response: 7E80562173A066A
+- expected_values:
+    JK_RR_WHL_SPD: 26.35938
+  response: 7E80562173A0697
+- expected_values:
+    JK_RR_WHL_SPD: 29.39062
+  response: 7E80562173A0759
+- expected_values:
+    JK_RR_WHL_SPD: 35.92188
+  response: 7E80562173A08FB
+- expected_values:
+    JK_RR_WHL_SPD: 46.04688
+  response: 7E80562173A0B83
+- expected_values:
+    JK_RR_WHL_SPD: 55.75
+  response: 7E80562173A0DF0
+- expected_values:
+    JK_RR_WHL_SPD: 56.53125
+  response: 7E80562173A0E22

@@ -1,0 +1,8 @@
+command_id: 7E0.014F
+test_cases:
+- expected_values:
+    MAX_EQ_RAT: 2
+    MAX_MAP: 250
+    MAX_O2_CURR: 128
+    MAX_O2_VOLT: 0
+  response: 7E806414F02008019

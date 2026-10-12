@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220257
+test_cases:
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 0
+  response: '7E8056202570000'
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 8.8125
+  response: '7E8056202570234'
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 12.89062
+  response: '7E8056202570339'
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 18.04688
+  response: '7E8056202570483'
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 18.17188
+  response: 7E805620257048B
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 18.8125
+  response: 7E80562025704B4
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 19.76562
+  response: 7E80562025704F1
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 24.29688
+  response: '7E8056202570613'
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 27.5625
+  response: 7E80562025706E4

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221738
+test_cases:
+- expected_values:
+    JK_FR_WHL_SPD: 0
+  response: '7E8056217380000'
+- expected_values:
+    JK_FR_WHL_SPD: 63.70312
+  response: 7E8056217380FED
+- expected_values:
+    JK_FR_WHL_SPD: 94.14062
+  response: '7E8056217381789'

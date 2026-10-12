@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221250
+test_cases:
+- expected_values:
+    JK_CHG_AIR_T: 91.6
+  response: '7E80462125061'
+- expected_values:
+    JK_CHG_AIR_T: 111.4
+  response: 7E8046212506C
+- expected_values:
+    JK_CHG_AIR_T: 118.6
+  response: '7E80462125070'

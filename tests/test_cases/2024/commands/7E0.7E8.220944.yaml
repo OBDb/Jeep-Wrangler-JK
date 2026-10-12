@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220944
+test_cases:
+- expected_values:
+    JK_BRAKE_BOOSTER_P: 55.9
+  response: 7E80562094415D6
+- expected_values:
+    JK_BRAKE_BOOSTER_P: 76.8
+  response: 7E8056209441E00
+- expected_values:
+    JK_BRAKE_BOOSTER_P: 81.75
+  response: 7E8056209441FEF
+- expected_values:
+    JK_BRAKE_BOOSTER_P: 82.3
+  response: '7E8056209442026'

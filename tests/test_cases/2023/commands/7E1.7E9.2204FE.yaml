@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.2204FE
+test_cases:
+- expected_values:
+    JK_ATF_T: 62.6
+  response: 7E9066204FE393436
+- expected_values:
+    JK_ATF_T: 204.8
+  response: 7E9066204FE888789
+- expected_values:
+    JK_ATF_T: 208.4
+  response: 7E9066204FE8A8689

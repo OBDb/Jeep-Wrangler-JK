@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220329
+test_cases:
+- expected_values:
+    JK_AC_HIGH_SIDE_P: 644
+  response: 7E8046203292E
+- expected_values:
+    JK_AC_HIGH_SIDE_P: 658
+  response: 7E8046203292F
+- expected_values:
+    JK_AC_HIGH_SIDE_P: 672
+  response: '7E80462032930'
+- expected_values:
+    JK_AC_HIGH_SIDE_P: 1610
+  response: '7E80462032973'
+- expected_values:
+    JK_AC_HIGH_SIDE_P: 1890
+  response: '7E80462032987'

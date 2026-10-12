@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2201A9
+test_cases:
+- expected_values:
+    JK_KNOCK_SENS_1: 0.50782
+  response: 7E8056201A91A00
+- expected_values:
+    JK_KNOCK_SENS_1: 0.52247
+  response: 7E8056201A91AC0
+- expected_values:
+    JK_KNOCK_SENS_1: 1.55764
+  response: 7E8056201A94FC0

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220174
+test_cases:
+- expected_values:
+    JK_MAP: 19.2
+  response: '7E8056201740060'
+- expected_values:
+    JK_MAP: 45.4
+  response: 7E80562017400E3
+- expected_values:
+    JK_MAP: 59.2
+  response: '7E8056201740128'

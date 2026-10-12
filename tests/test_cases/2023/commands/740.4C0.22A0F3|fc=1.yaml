@@ -1,0 +1,72 @@
+command_id: 740.4C0.22A0F3|fc=1
+test_cases:
+- expected_values:
+    JK_TP_RR: 41
+    JK_TT_RR: 41
+  response: "4C0 10 09 62 A0 F3 00 A4 5B \n4C0 21 00 51 5E F3 00 A4 5B "
+- expected_values:
+    JK_TP_RR: 15.5
+    JK_TT_RR: 14
+  response: |-
+    4C0100962A0F3003E40
+    4C02100035EF3003E40
+- expected_values:
+    JK_TP_RR: 15.5
+    JK_TT_RR: 14
+  response: |-
+    4C0100962A0F3003E40
+    4C021120B5EF3003E40
+- expected_values:
+    JK_TP_RR: 15.5
+    JK_TT_RR: 19
+  response: |-
+    4C0100962A0F3003E45
+    4C02100A15EF3003E45
+- expected_values:
+    JK_TP_RR: 16
+    JK_TT_RR: 15
+  response: |-
+    4C0100962A0F3004041
+    4C0213E035EF3004041
+- expected_values:
+    JK_TP_RR: 17
+    JK_TT_RR: 26
+  response: |-
+    4C0100962A0F300444C
+    4C0210F0B5EF300444C
+- expected_values:
+    JK_TP_RR: 17
+    JK_TT_RR: 29
+  response: |-
+    4C0100962A0F300444F
+    4C02100515EF300444F
+- expected_values:
+    JK_TP_RR: 39.5
+    JK_TT_RR: 28
+  response: |-
+    4C0100962A0F3009E4E
+    4C021FF0B5EF3009E4E
+- expected_values:
+    JK_TP_RR: 43.5
+    JK_TT_RR: 47
+  response: |-
+    4C0100962A0F300AE61
+    4C02100515EF300AE61
+- expected_values:
+    JK_TP_RR: 44
+    JK_TT_RR: 42
+  response: |-
+    4C0100962A0F300B05C
+    4C021E00B5EF300B05C
+- expected_values:
+    JK_TP_RR: 44.5
+    JK_TT_RR: 56
+  response: |-
+    4C0100962A0F300B26A
+    4C02100C35EF300B26A
+- expected_values:
+    JK_TP_RR: 46
+    JK_TT_RR: 52
+  response: |-
+    4C0100962A0F300B866
+    4C02100C35EF300B866

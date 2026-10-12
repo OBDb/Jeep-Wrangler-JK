@@ -1,0 +1,27 @@
+command_id: 7E0.0103
+test_cases:
+- expected_values:
+    FUELSYS1: OL
+    FUELSYS2: OL
+  response: '7E80441030101'
+- expected_values:
+    FUELSYS1: CL
+    FUELSYS2: CL
+  response: '7E80441030202'
+- expected_values:
+    FUELSYS1: CL
+    FUELSYS2: CL
+  response: |-
+    7E80441030202
+    7E80462012359
+    7E8056201D50611
+    7E80562019E0393
+    7E8046203D620
+    7E8046202279B
+    7E80462012747
+    7E8076201CA00004672
+    7E80462067C47
+- expected_values:
+    FUELSYS1: OL-Drive
+    FUELSYS2: OL-Drive
+  response: '7E80441030404'

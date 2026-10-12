@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2201E2
+test_cases:
+- expected_values:
+    JK_DPF_SIM_MASS: 0
+  response: 7E8056201E20000
+- expected_values:
+    JK_DPF_SIM_MASS: 0.01
+  response: 7E8056201E20001
+- expected_values:
+    JK_DPF_SIM_MASS: 0.03
+  response: 7E8056201E20003
+- expected_values:
+    JK_DPF_SIM_MASS: 0.04
+  response: 7E8056201E20004
+- expected_values:
+    JK_DPF_SIM_MASS: 0.05
+  response: 7E8056201E20005
+- expected_values:
+    JK_DPF_SIM_MASS: 0.07
+  response: 7E8056201E20007
+- expected_values:
+    JK_DPF_SIM_MASS: 0.08
+  response: 7E8056201E20008

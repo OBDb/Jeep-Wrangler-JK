@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221F59
+test_cases:
+- expected_values:
+    JK_WASTEGATE_POS_SENS: 1.13704
+  response: 7E805621F5900E9
+- expected_values:
+    JK_WASTEGATE_POS_SENS: 2.84016
+  response: 7E805621F590246
+- expected_values:
+    JK_WASTEGATE_POS_SENS: 3.33304
+  response: 7E805621F5902AB

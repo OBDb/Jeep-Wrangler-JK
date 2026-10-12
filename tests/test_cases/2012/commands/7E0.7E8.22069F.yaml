@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22069F
+test_cases:
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 69
+  response: 7E80462069F85
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 70
+  response: 7E80462069F86
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 71
+  response: 7E80462069F87
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 72
+  response: 7E80462069F88
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 75
+  response: 7E80462069F8B
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 76
+  response: 7E80462069F8C
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 81
+  response: 7E80462069F91
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 99
+  response: 7E80462069FA3
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 100
+  response: 7E80462069FA4
