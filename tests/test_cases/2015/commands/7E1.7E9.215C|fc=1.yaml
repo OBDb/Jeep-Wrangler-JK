@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.215C|fc=1
+test_cases:
+- expected_values:
+    JK_ATF_T_215C: 72
+  response: 7E907615C0000024E7A
+- expected_values:
+    JK_ATF_T_215C: 30
+  response: 7E907615C0110044450
+- expected_values:
+    JK_ATF_T_215C: 21
+  response: 7E907615C0340044447
+- expected_values:
+    JK_ATF_T_215C: 38
+  response: 7E907615C0BB0015258
+- expected_values:
+    JK_ATF_T_215C: 25
+  response: 7E907615C0DD000504B
+- expected_values:
+    JK_ATF_T_215C: 100
+  response: 7E907615C0DD0005096

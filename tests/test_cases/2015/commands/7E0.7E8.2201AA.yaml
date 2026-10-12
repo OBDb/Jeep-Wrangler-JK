@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2201AA
+test_cases:
+- expected_values:
+    JK_KNOCK_SENS_2: 0.39551
+  response: 7E8056201AA1440
+- expected_values:
+    JK_KNOCK_SENS_2: 0.4004
+  response: 7E8056201AA1480
+- expected_values:
+    JK_KNOCK_SENS_2: 0.52247
+  response: 7E8056201AA1AC0
+- expected_values:
+    JK_KNOCK_SENS_2: 0.53712
+  response: 7E8056201AA1B80
+- expected_values:
+    JK_KNOCK_SENS_2: 0.54688
+  response: 7E8056201AA1C00
+- expected_values:
+    JK_KNOCK_SENS_2: 0.56153
+  response: 7E8056201AA1CC0
+- expected_values:
+    JK_KNOCK_SENS_2: 0.64942
+  response: 7E8056201AA2140
+- expected_values:
+    JK_KNOCK_SENS_2: 0.7129
+  response: 7E8056201AA2480
+- expected_values:
+    JK_KNOCK_SENS_2: 0.75196
+  response: 7E8056201AA2680

@@ -1,0 +1,58 @@
+command_id: 740.4C0.22A0A1|fc=1
+test_cases:
+- expected_values:
+    JK_TP_FL_AC: 37
+    JK_TP_FR_AC: 37
+    JK_TP_RL_AC: 37
+    JK_TP_RR_AC: 35
+  response: |-
+    4C0100962A0A1252523
+    4C02125000EA1252523
+- expected_values:
+    JK_TP_FL_AC: 37
+    JK_TP_FR_AC: 37
+    JK_TP_RL_AC: 37
+    JK_TP_RR_AC: 36
+  response: |-
+    4C0100962A0A1252524
+    4C02125000FA1252524
+- expected_values:
+    JK_TP_FL_AC: 40
+    JK_TP_FR_AC: 42
+    JK_TP_RL_AC: 40
+    JK_TP_RR_AC: 42
+  response: |-
+    4C0100962A0A1282A2A
+    4C02128000FA1282A2A
+- expected_values:
+    JK_TP_FL_AC: 41
+    JK_TP_FR_AC: 40
+    JK_TP_RL_AC: 41
+    JK_TP_RR_AC: 40
+  response: |-
+    4C0100962A0A1292828
+    4C02129000DA1292828
+- expected_values:
+    JK_TP_FL_AC: 42
+    JK_TP_FR_AC: 42
+    JK_TP_RL_AC: 42
+    JK_TP_RR_AC: 40
+  response: |-
+    4C0100962A0A12A2A28
+    4C0212A000EA12A2A28
+- expected_values:
+    JK_TP_FL_AC: 42
+    JK_TP_FR_AC: 42
+    JK_TP_RL_AC: 42
+    JK_TP_RR_AC: 43
+  response: |-
+    4C0100962A0A12A2A2B
+    4C0212A000EA12A2A2B
+- expected_values:
+    JK_TP_FL_AC: 42
+    JK_TP_FR_AC: 42
+    JK_TP_RL_AC: 43
+    JK_TP_RR_AC: 43
+  response: |-
+    4C0100962A0A12A2A2B
+    4C0212B000EA12A2A2B

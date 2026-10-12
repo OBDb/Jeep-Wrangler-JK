@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220127
+test_cases:
+- expected_values:
+    JK_AAT: 68.2
+  response: '7E80462012754'
+- expected_values:
+    JK_AAT: 70
+  response: '7E80462012755'
+- expected_values:
+    JK_AAT: 71.8
+  response: '7E80462012756'
+- expected_values:
+    JK_AAT: 73.6
+  response: '7E80462012757'
+- expected_values:
+    JK_AAT: 75.4
+  response: '7E80462012758'
+- expected_values:
+    JK_AAT: 77.2
+  response: '7E80462012759'

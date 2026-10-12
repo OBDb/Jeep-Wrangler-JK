@@ -1,0 +1,16 @@
+command_id: 7E0.011C
+test_cases:
+- expected_values:
+    OBDSUP: OBD II
+  response: 7E803411C01
+- expected_values:
+    OBDSUP: OBD II
+  response: |-
+    7E803411C01
+    7E8056201D504C3
+    7E80562019E037B
+    7E8046203D631
+    7E804620227BC
+    7E8046201275B
+    7E8076201CA00000C87
+    7E80462067C52

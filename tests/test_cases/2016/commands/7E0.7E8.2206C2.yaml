@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2206C2
+test_cases:
+- expected_values:
+    JK_INT_CAM_1_OFFSET: 11.1
+  response: 7E8056206C2006F
+- expected_values:
+    JK_INT_CAM_1_OFFSET: 29.2
+  response: 7E8056206C20124
+- expected_values:
+    JK_INT_CAM_1_OFFSET: -3.7
+  response: 7E8056206C2FFDB
+- expected_values:
+    JK_INT_CAM_1_OFFSET: -2.1
+  response: 7E8056206C2FFEB

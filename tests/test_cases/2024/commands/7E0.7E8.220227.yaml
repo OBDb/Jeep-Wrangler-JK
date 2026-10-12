@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220227
+test_cases:
+- expected_values:
+    JK_FLI_INPUT: 68.23529
+  response: 7E804620227AE
+- expected_values:
+    JK_FLI_INPUT: 68.62745
+  response: 7E804620227AF
+- expected_values:
+    JK_FLI_INPUT: 69.01961
+  response: 7E804620227B0
+- expected_values:
+    JK_FLI_INPUT: 69.41176
+  response: 7E804620227B1
+- expected_values:
+    JK_FLI_INPUT: 69.80392
+  response: 7E804620227B2
+- expected_values:
+    JK_FLI_INPUT: 70.19608
+  response: 7E804620227B3

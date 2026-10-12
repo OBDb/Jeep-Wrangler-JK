@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2202B2
+test_cases:
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 4.46875
+  response: 7E8056202B2011E
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 27.75
+  response: 7E8056202B206F0
+- expected_values:
+    JK_REQUIRED_FUEL_CHG_1: 36.07812
+  response: 7E8056202B20905

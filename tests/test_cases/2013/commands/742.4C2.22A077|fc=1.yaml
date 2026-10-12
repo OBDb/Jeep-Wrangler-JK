@@ -1,0 +1,18 @@
+command_id: 742.4C2.22A077|fc=1
+test_cases:
+- expected_values:
+    JK_FL_TIRE_P: 0
+    JK_FR_TIRE_P: 0
+    JK_RL_TIRE_P: 0
+    JK_RR_TIRE_P: 0
+  response: |-
+    4C2100B62A077000000
+    4C22100000000000000
+- expected_values:
+    JK_FL_TIRE_P: null
+    JK_FR_TIRE_P: null
+    JK_RL_TIRE_P: null
+    JK_RR_TIRE_P: null
+  response: |-
+    4C2100B62A077000000
+    4C221FFFFFFFFFF0000

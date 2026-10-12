@@ -1,0 +1,112 @@
+command_id: 740.4C0.22A0A1|fc=1
+test_cases:
+- expected_values:
+    JK_TP_FL_AC: 38
+    JK_TP_FR_AC: 38
+    JK_TP_RL_AC: 39
+    JK_TP_RR_AC: 38
+  response: "4C0 10 09 62 A0 A1 26 26 26 \n4C0 21 27 00 0E A1 26 26 26 "
+- expected_values:
+    JK_TP_FL_AC: 19
+    JK_TP_FR_AC: 19
+    JK_TP_RL_AC: 19
+    JK_TP_RR_AC: 18
+  response: |-
+    4C0100962A0A1131312
+    4C02113000AA1131312
+- expected_values:
+    JK_TP_FL_AC: 19
+    JK_TP_FR_AC: 20
+    JK_TP_RL_AC: 19
+    JK_TP_RR_AC: 18
+  response: |-
+    4C0100962A0A1131412
+    4C02113000FA1131412
+- expected_values:
+    JK_TP_FL_AC: 25
+    JK_TP_FR_AC: 29
+    JK_TP_RL_AC: 26
+    JK_TP_RR_AC: 29
+  response: |-
+    4C0100962A0A1191D1D
+    4C0211A000BA1191D1D
+- expected_values:
+    JK_TP_FL_AC: 25
+    JK_TP_FR_AC: 34
+    JK_TP_RL_AC: 26
+    JK_TP_RR_AC: 32
+  response: |-
+    4C0100962A0A1192220
+    4C0211A000BA1192220
+- expected_values:
+    JK_TP_FL_AC: 30
+    JK_TP_FR_AC: 40
+    JK_TP_RL_AC: 31
+    JK_TP_RR_AC: 41
+  response: |-
+    4C0100962A0A11E2829
+    4C0211F000BA11E2829
+- expected_values:
+    JK_TP_FL_AC: 30
+    JK_TP_FR_AC: 40
+    JK_TP_RL_AC: 33
+    JK_TP_RR_AC: 41
+  response: |-
+    4C0100962A0A11E2829
+    4C02121000BA11E2829
+- expected_values:
+    JK_TP_FL_AC: 31
+    JK_TP_FR_AC: 40
+    JK_TP_RL_AC: 39
+    JK_TP_RR_AC: 41
+  response: |-
+    4C0100962A0A11F2829
+    4C02127000BA11F2829
+- expected_values:
+    JK_TP_FL_AC: 35
+    JK_TP_FR_AC: 40
+    JK_TP_RL_AC: 39
+    JK_TP_RR_AC: 41
+  response: |-
+    4C0100962A0A1232829
+    4C02127000BA1232829
+- expected_values:
+    JK_TP_FL_AC: 38
+    JK_TP_FR_AC: 42
+    JK_TP_RL_AC: 41
+    JK_TP_RR_AC: 44
+  response: |-
+    4C0100962A0A1262A2C
+    4C02129000CA1262A2C
+- expected_values:
+    JK_TP_FL_AC: 38
+    JK_TP_FR_AC: 42
+    JK_TP_RL_AC: 40
+    JK_TP_RR_AC: 45
+  response: |-
+    4C0100962A0A1262A2D
+    4C02128000CA1262A2D
+- expected_values:
+    JK_TP_FL_AC: 40
+    JK_TP_FR_AC: 20
+    JK_TP_RL_AC: 32
+    JK_TP_RR_AC: 19
+  response: |-
+    4C0100962A0A1281413
+    4C02120000BA1281413
+- expected_values:
+    JK_TP_FL_AC: 40
+    JK_TP_FR_AC: 31
+    JK_TP_RL_AC: 41
+    JK_TP_RR_AC: 19
+  response: |-
+    4C0100962A0A1281F13
+    4C02129000BA1281F13
+- expected_values:
+    JK_TP_FL_AC: 41
+    JK_TP_FR_AC: 40
+    JK_TP_RL_AC: 41
+    JK_TP_RR_AC: 39
+  response: |-
+    4C0100962A0A1292827
+    4C02129000BA1292827

@@ -1,0 +1,68 @@
+command_id: 740.4C0.22A0F3|fc=1
+test_cases:
+- expected_values:
+    JK_TP_RR: 37.5
+    JK_TT_RR: 17
+  response: |-
+    4C0100962A0F3009643
+    4C0216A0B5EF3009643
+- expected_values:
+    JK_TP_RR: 37.5
+    JK_TT_RR: 17
+  response: |-
+    4C0100962A0F3009643
+    4C021700B5EF3009643
+- expected_values:
+    JK_TP_RR: 38
+    JK_TT_RR: 17
+  response: |-
+    4C0100962A0F3009843
+    4C02100915EF3009843
+- expected_values:
+    JK_TP_RR: 38.5
+    JK_TT_RR: 24
+  response: |-
+    4C0100962A0F3009A4A
+    4C0210F0B5EF3009A4A
+- expected_values:
+    JK_TP_RR: 40
+    JK_TT_RR: 25
+  response: |-
+    4C0100962A0F300A04B
+    4C021870B5EF300A04B
+- expected_values:
+    JK_TP_RR: 40
+    JK_TT_RR: 29
+  response: |-
+    4C0100962A0F300A04F
+    4C02100915EF300A04F
+- expected_values:
+    JK_TP_RR: 40
+    JK_TT_RR: 29
+  response: |-
+    4C0100962A0F300A04F
+    4C021FF0B5EF300A04F
+- expected_values:
+    JK_TP_RR: 40
+    JK_TT_RR: 30
+  response: |-
+    4C0100962A0F300A050
+    4C02100515EF300A050
+- expected_values:
+    JK_TP_RR: 43.5
+    JK_TT_RR: 36
+  response: |-
+    4C0100962A0F300AE56
+    4C02100515EF300AE56
+- expected_values:
+    JK_TP_RR: 44
+    JK_TT_RR: 39
+  response: |-
+    4C0100962A0F300B059
+    4C02100915EF300B059
+- expected_values:
+    JK_TP_RR: 46
+    JK_TT_RR: 51
+  response: |-
+    4C0100962A0F300B865
+    4C02100C35EF300B865

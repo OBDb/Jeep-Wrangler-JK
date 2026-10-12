@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22069F
+test_cases:
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 32
+  response: 7E80462069F60
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 66
+  response: 7E80462069F82
+- expected_values:
+    JK_VARIABLE_VLV_TIM_OIL_T: 90
+  response: 7E80462069F9A

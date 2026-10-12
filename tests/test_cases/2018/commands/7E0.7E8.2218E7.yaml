@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2218E7
+test_cases:
+- expected_values:
+    JK_DPF_REGENS_18E7: 1670
+  response: 7E8056218E70686
+- expected_values:
+    JK_DPF_REGENS_18E7: 1672
+  response: 7E8056218E70688
+- expected_values:
+    JK_DPF_REGENS_18E7: 1675
+  response: 7E8056218E7068B

@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220174
+test_cases:
+- expected_values:
+    JK_MAP: 17.8
+  response: '7E8056201740059'
+- expected_values:
+    JK_MAP: 20.4
+  response: '7E8056201740066'
+- expected_values:
+    JK_MAP: 36.8
+  response: 7E80562017400B8
+- expected_values:
+    JK_MAP: 40.6
+  response: 7E80562017400CB
+- expected_values:
+    JK_MAP: 67.8
+  response: '7E8056201740153'
+- expected_values:
+    JK_MAP: 73.2
+  response: 7E805620174016E
+- expected_values:
+    JK_MAP: 77.6
+  response: '7E8056201740184'
+- expected_values:
+    JK_MAP: 79
+  response: 7E805620174018B
+- expected_values:
+    JK_MAP: 80.6
+  response: '7E8056201740193'
+- expected_values:
+    JK_MAP: 81.4
+  response: '7E8056201740197'

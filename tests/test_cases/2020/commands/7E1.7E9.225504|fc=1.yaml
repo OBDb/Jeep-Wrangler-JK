@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.225504|fc=1
+test_cases:
+- expected_values:
+    JK_GEAR_TARGET: '3'
+  response: '7E9 04 62 55 04 03 '
+- expected_values:
+    JK_GEAR_TARGET: '6'
+  response: '7E9 04 62 55 04 06 '
+- expected_values:
+    JK_GEAR_TARGET: NEUTRAL
+  response: '7E90462550400'
+- expected_values:
+    JK_GEAR_TARGET: PARK
+  response: 7E9046255040D

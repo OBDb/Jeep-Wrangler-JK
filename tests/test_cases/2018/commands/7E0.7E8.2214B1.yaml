@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2214B1
+test_cases:
+- expected_values:
+    JK_THROTTLE_INLET_AIR_T: 24
+  response: 7E8056214B10058
+- expected_values:
+    JK_THROTTLE_INLET_AIR_T: 45
+  response: 7E8056214B1006D

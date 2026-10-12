@@ -1,0 +1,14 @@
+command_id: 740.4C0.22A0A5|fc=1
+test_cases:
+- expected_values:
+    JK_TP_FL_VALID: 1
+    JK_TP_FR_VALID: 1
+    JK_TP_RL_VALID: 1
+    JK_TP_RR_VALID: 1
+  response: '4C0 04 62 A0 A5 0F '
+- expected_values:
+    JK_TP_FL_VALID: 1
+    JK_TP_FR_VALID: 1
+    JK_TP_RL_VALID: 1
+    JK_TP_RR_VALID: 1
+  response: 4C00462A0A50F

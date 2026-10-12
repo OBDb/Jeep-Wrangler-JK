@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220234
+test_cases:
+- expected_values:
+    JK_INJ_WIDTH_CYL_1: 0.937
+  response: 7E807620234000003A9
+- expected_values:
+    JK_INJ_WIDTH_CYL_1: 1.24
+  response: 7E807620234000004D8
+- expected_values:
+    JK_INJ_WIDTH_CYL_1: 1.511
+  response: 7E807620234000005E7

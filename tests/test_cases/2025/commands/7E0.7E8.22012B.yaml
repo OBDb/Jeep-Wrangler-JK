@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    JK_CAT_MODEL_T: 471
+  response: 7E80562012B01D7
+- expected_values:
+    JK_CAT_MODEL_T: 539
+  response: 7E80562012B021B
+- expected_values:
+    JK_CAT_MODEL_T: 556
+  response: 7E80562012B022C

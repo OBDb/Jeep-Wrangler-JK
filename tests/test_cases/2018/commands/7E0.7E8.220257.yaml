@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220257
+test_cases:
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 0
+  response: '7E8056202570000'
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 19.92188
+  response: 7E80562025704FB
+- expected_values:
+    JK_FUEL_MASS_CYL_3: 39.04688
+  response: 7E80562025709C3

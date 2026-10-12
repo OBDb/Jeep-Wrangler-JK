@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2206F3
+test_cases:
+- expected_values:
+    JK_FUEL_RAIL_P_06F3: 12.293
+  response: 7E8056206F33005
+- expected_values:
+    JK_FUEL_RAIL_P_06F3: 20.445
+  response: 7E8056206F34FDD
+- expected_values:
+    JK_FUEL_RAIL_P_06F3: 20.483
+  response: 7E8056206F35003
