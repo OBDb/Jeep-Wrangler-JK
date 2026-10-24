@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.21D2
 test_cases:
 - expected_values:
-    JK_EOT_21D2: -64
+    JK_EOT_21D2: null
   response: |-
     7E8104D61D2FFFF0000
     7E82100000000000000
@@ -16,7 +16,7 @@ test_cases:
     7E82A00000064E66614
     7E82B14000064E66614
 - expected_values:
-    JK_EOT_21D2: -64
+    JK_EOT_21D2: null
   response: |-
     7E8104D61D2FFFF0000
     7E82100000000000000
@@ -31,7 +31,7 @@ test_cases:
     7E82A00000064E6663C
     7E82B28000064E6663C
 - expected_values:
-    JK_EOT_21D2: -64
+    JK_EOT_21D2: null
   response: |-
     7E8104D61D2FFFF0000
     7E82100000000000000
@@ -46,7 +46,7 @@ test_cases:
     7E82A00000064E6663C
     7E82B28000064E6663C
 - expected_values:
-    JK_EOT_21D2: -64
+    JK_EOT_21D2: null
   response: |-
     7E8104D61D2FFFF0000
     7E8210001DC0000004E
