@@ -69,7 +69,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "D2"}, "freq": 5, "dbgfilter": { "to": 2017 },
   "signals": [
-    {"id": "JK_EOT_21D2", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
+    {"id": "JK_EOT_21D2", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 191, "min": -64, "add": -64, "nullmin": -64, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0109"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2017] },
   "signals": [
@@ -249,7 +249,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "12C9"}, "freq": 5, "dbgfilter": { "to": 2017 },
   "signals": [
-    {"id": "JK_LOW_SIDE_ECT", "path": "Engine", "fmt": { "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Low side coolant temperature"}
+    {"id": "JK_LOW_SIDE_ECT", "path": "Engine", "fmt": { "len": 8, "max": 191, "min": -64, "add": -64, "nullmin": -64, "unit": "celsius" }, "name": "Low side coolant temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14B1"}, "freq": 5, "dbgfilter": { "to": 2017 },
   "signals": [
@@ -257,7 +257,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14B3"}, "freq": 5, "dbgfilter": { "to": 2017 },
   "signals": [
-    {"id": "JK_THROTTLE_INLET_AIR_T_RAW", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Throttle inlet air temperature raw"}
+    {"id": "JK_THROTTLE_INLET_AIR_T_RAW", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "nullmin": -64, "unit": "celsius" }, "name": "Throttle inlet air temperature raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "15D4"}, "freq": 5, "dbgfilter": { "to": 2017 },
   "signals": [
